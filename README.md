@@ -15,7 +15,7 @@ Understanding Javascript better
 
 - [1.2](#1.2) <a name='1.2'></a> **Difference between Constructor Function and Object**:
 ```javascript
-  var constructor = function(){
+  var app1 = function(){
       this.firstMethod = function(){
          //something
       };
@@ -24,7 +24,7 @@ Understanding Javascript better
       };
   };
   
-  var object = {
+  var app2 = {
     firstKey: function(){
        //something
     },
