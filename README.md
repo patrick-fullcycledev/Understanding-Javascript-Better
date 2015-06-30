@@ -16,12 +16,12 @@ Understanding Javascript better
 - [1.2](#1.2) <a name='1.2'></a> **Difference between Constructor Function and Object**:
 ```javascript
   var app1 = function(){
-      this.firstMethod = function(){
-         //something
-      };
-      this.secondMethod = function(){
-         //something
-      };
+    this.firstMethod = function(){
+       //something
+    };
+    this.secondMethod = function(){
+       //something
+    };
   };
   
   var app2 = {
