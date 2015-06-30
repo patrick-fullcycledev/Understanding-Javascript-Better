@@ -34,5 +34,12 @@ Understanding Javascript better
 };
 ```
 
-- [1.3](#1.3) <a name='1.3'></a> **Difference between Constructor Function and Object**:
+- [1.3](#1.3) <a name='1.3'></a> **Constructor Function and Prototype Object**:
 ![server diagram](Constructor%20and%20Prototype.png)
++ When we create a function like function Foo() {}, JavaScript creates a Function instance.
++ Every Function instance (the constructor function) has a property prototype which is a pointer.
++ The prototype property of the constructor function points to its prototype object.
++ The prototype object has a property constructor which is also a pointer.
++ The constructor property of the prototype object points back to its constructor function.
++ When we create a new instance of Foo like new Foo(), JavaScript creates a new object.
++ The internal [[proto]] property of the instance points to the prototype of the constructor.
