@@ -9,6 +9,6 @@ Understanding Javascript better
 ```javascript
   // The named function expression is parsed from the start
   var functionName = function() {}
-  //Function declaration is defined at run-time
+  // The function declaration is defined at run-time
   function functionName() {}
 ```
