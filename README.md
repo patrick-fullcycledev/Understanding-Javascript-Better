@@ -13,7 +13,7 @@ Understanding Javascript better
   function functionName() {}
 ```
 
-- [1.2](#1.2) <a name='1.2'></a> **Difference between Constructor Function and Object **:
+- [1.2](#1.2) <a name='1.2'></a> **Difference between Constructor Function and Object**:
 ```javascript
   var constructor = function(){
       this.firstMethod = function(){
