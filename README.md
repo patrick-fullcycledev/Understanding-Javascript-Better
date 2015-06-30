@@ -7,9 +7,8 @@ Understanding Javascript better
 ## Functions
 - [1.1](#1.1) <a name='1.1'></a> **Functions Expression and Declaration**: 
 ```javascript
-  // The following is defined at run-time
+  // The named function expression is parsed from the start
   var functionName = function() {}
-  // The following is parsed from the start
+  //Function declaration is defined at run-time
   function functionName() {}
-  
 ```
