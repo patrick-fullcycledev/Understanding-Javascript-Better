@@ -33,3 +33,6 @@ Understanding Javascript better
     }
 };
 ```
+
+- [1.3](#1.3) <a name='1.3'></a> **Difference between Constructor Function and Object**:
+![server diagram](Constructor%20and%20Prototype.png)
