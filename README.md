@@ -17,8 +17,11 @@ Understanding Javascript better
 
   // Function Expression is stored in a variable and defined at run-time
   // Anonymous function
-  // Functions stored in variables do not need function names. They are always invoked (called) using the variable name.
-  var x = function (a, b) {return a * b};
+  // Functions stored in variables do not need function names. 
+  // They are always invoked (called) using the variable name.
+  var x = function (a, b) {
+    return a * b
+  };
   
   
 ```
