@@ -6,7 +6,7 @@ Understanding Javascript better
 1. [Prototype](#prototype)
 
 ## Functions
-- [1.1](#1.1) <a name='1.1'></a> **Different Functions Definition**: 
+- [1.1](#1.1) <a name='1.1'></a> **Different Functions Definitions**: 
 ```javascript
   // The named function declaration is parsed from the start
   // Semicolons are used to separate executable JavaScript statements
