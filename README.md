@@ -33,6 +33,10 @@ Understanding Javascript better
 
 - [1.2](#1.2) <a name='1.2'></a> **Interesting case: Function and Object**
 ```javascript
+  // Object literals don't provide closures, only functions do. 
+  // In addition, the properties of app1 will not be assigned until the function is called in the first example, 
+  // but will be immediately for app2
+
   // Constructor Pattern 
   // And the firstMethod and secondMethod will be assigned to the window object from the start
   var app1 = function(){
