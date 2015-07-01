@@ -8,15 +8,19 @@ Understanding Javascript better
 ## Functions
 - [1.1](#1.1) <a name='1.1'></a> **Different Functions Definitions**: 
 ```javascript
-  // The named function declaration is parsed from the start
+  // Function Declaration is parsed from the start
   // Semicolons are used to separate executable JavaScript statements
   // Function declaration is not an executable statement, it is not common to end it with a semicolon
   function myFunction(a, b) {
     return a + b;
   }
 
-  // The function expression is stored in a variable and defined at run-time
-  var functionName = function() {}
+  // Function Expression is stored in a variable and defined at run-time
+  // Anonymous function
+  // Functions stored in variables do not need function names. They are always invoked (called) using the variable name.
+  var x = function (a, b) {return a * b};
+  
+  
 ```
 
 - [1.2](#1.2) <a name='1.2'></a> **Difference between Constructor Function and Object**:
