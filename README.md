@@ -11,18 +11,22 @@ Understanding Javascript better
   // Function Declaration is parsed from the start
   // Semicolons are used to separate executable JavaScript statements
   // Function declaration is not an executable statement, it is not common to end it with a semicolon
-  function myFunction(a) {
+  function functionName(a) {
     return a;
   }
 
   // Function Expression is stored in a variable and defined at run-time
-  // Anonymous function
+  // The function here is actually anonymous function
   // Functions stored in variables do not need function names. 
   // They are always invoked (called) using the variable name.
   var x = function (a) {
     return a;
   };
   
+  // Function() Constructor
+  // Notice this is not the 'normal' constructor, but the costructor for function
+  // To create function object, notice we use the keyword "Function" and "new"
+  var functionName = new Function("a", "return a");
   
 ```
 
