@@ -6,12 +6,17 @@ Understanding Javascript better
 1. [Prototype](#Prototype)
 
 ## Functions
-- [1.1](#1.1) <a name='1.1'></a> **Difference between Functions Expression and Declaration**: 
+- [1.1](#1.1) <a name='1.1'></a> **Different Functions Definition**: 
 ```javascript
-  // The named function expression is parsed from the start
+  // The named function declaration is parsed from the start
+  // Semicolons are used to separate executable JavaScript statements
+  // Function declaration is not an executable statement, it is not common to end it with a semicolon
+  function myFunction(a, b) {
+    return a + b;
+  }
+
+  // The function expression is stored in a variable and defined at run-time
   var functionName = function() {}
-  // The function declaration is defined at run-time
-  function functionName() {}
 ```
 
 - [1.2](#1.2) <a name='1.2'></a> **Difference between Constructor Function and Object**:
