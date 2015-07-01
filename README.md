@@ -3,7 +3,7 @@ Understanding Javascript better
 
 ## Table of Contents
 1. [Functions](#functions)
-1. [Prototype](#Prototype)
+1. [Prototype](#prototype)
 
 ## Functions
 - [1.1](#1.1) <a name='1.1'></a> **Different Functions Definition**: 
