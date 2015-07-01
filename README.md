@@ -49,7 +49,7 @@ Understanding Javascript better
   };
   
   // Object Literal
-  // TODO Why Object Literal does not closure?        
+  // TODO Why Object Literal does not have closure?        
   // Refer to: http://www.akawebdesign.com/2010/10/22/javascript-singletons-object-literals-vs-closures/
   var app2 = {
     firstKey: function(){
