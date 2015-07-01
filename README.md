@@ -54,7 +54,11 @@ Understanding Javascript better
     secondKey: function(){
        //something
     }
-};
+  };
+  
+  // Object literal vs Constructor Prototype
+  // Refer to: http://stackoverflow.com/questions/17260603/object-literal-vs-constructorprototype
+  
 ```
 **[⬆ back to top](#table-of-contents)**
 
