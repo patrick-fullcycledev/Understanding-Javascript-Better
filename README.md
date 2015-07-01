@@ -2,7 +2,7 @@
 Understanding Javascript better
 
 ## Table of Contents
-1. [Functions](#Functions)
+1. [Functions](#functions)
 1. [Prototype](#Prototype)
 
 ## Functions
