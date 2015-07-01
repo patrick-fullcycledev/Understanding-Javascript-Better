@@ -9,6 +9,7 @@ Understanding Javascript better
 - [1.1](#1.1) <a name='1.1'></a> **Different Functions Definitions**: 
 ```javascript
   // Function Declaration is parsed from the start
+  // Function Declarations loads before any code is executed (Hoisting)
   // Semicolons are used to separate executable JavaScript statements
   // Function declaration is not an executable statement, it is not common to end it with a semicolon
   function functionName(a) {
@@ -30,8 +31,10 @@ Understanding Javascript better
   
 ```
 
-- [1.2](#1.2) <a name='1.2'></a> **Difference between Constructor Function and Object**:
+- [1.2](#1.2) <a name='1.2'></a> **Interesting case: Function and Object**:
 ```javascript
+  // Constructor Pattern 
+  // And the firstMethod and secondMethod will be assigned to the window object from the start
   var app1 = function(){
     this.firstMethod = function(){
        //something
@@ -41,6 +44,9 @@ Understanding Javascript better
     };
   };
   
+  // Object Literal
+  // TODO Why Object Literal does not closure?        
+  // Refer to: http://www.akawebdesign.com/2010/10/22/javascript-singletons-object-literals-vs-closures/
   var app2 = {
     firstKey: function(){
        //something
