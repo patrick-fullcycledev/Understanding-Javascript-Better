@@ -3,6 +3,7 @@ Understanding Javascript better
 
 ## Table of Contents
 1. [Functions](#functions)
+1. [Closures](#closures)
 1. [Prototype](#prototype)
 
 ## Functions
