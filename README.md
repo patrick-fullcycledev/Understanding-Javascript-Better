@@ -64,6 +64,10 @@ Understanding Javascript better
   // Refer to: http://stackoverflow.com/questions/17260603/object-literal-vs-constructorprototype
   
 ```
+- [1.3](#1.3) <a name='1.3'></a> **Passed by Value or by Reference**
+http://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language
+
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Prototype
