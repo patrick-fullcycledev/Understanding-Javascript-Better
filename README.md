@@ -71,7 +71,8 @@ http://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-p
 
 **[⬆ back to top](#table-of-contents)**
 
-## closure
+## Closure
+
 
 **[⬆ back to top](#table-of-contents)**
 
