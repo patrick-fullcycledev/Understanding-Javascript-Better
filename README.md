@@ -2,11 +2,11 @@
 Understanding Javascript better
 
 ## Table of Contents
-1. [Functions](#functions)
+1. [Function](#function)
 1. [Closure](#closure)
 1. [Prototype](#prototype)
 
-## Functions
+## Function
 - [1.1](#1.1) <a name='1.1'></a> **Different Functions Definitions**: 
 ```javascript
   // Function Declaration is parsed from the start
@@ -68,6 +68,10 @@ Understanding Javascript better
 - [1.3](#1.3) <a name='1.3'></a> **Passed by Value or by Reference**
 http://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language
 
+
+**[⬆ back to top](#table-of-contents)**
+
+## closure
 
 **[⬆ back to top](#table-of-contents)**
 
