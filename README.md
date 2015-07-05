@@ -5,6 +5,7 @@ Understanding Javascript better
 1. [Function](#function)
 1. [Closure](#closure)
 1. [Prototype](#prototype)
+1. [Pattern](#pattern)
 
 ## Function
 - [1.1](#1.1) <a name='1.1'></a> **Different Functions Definitions**: 
@@ -72,6 +73,10 @@ http://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-p
 **[⬆ back to top](#table-of-contents)**
 
 ## Closure
+http://howtonode.org/why-use-closure
+
+http://howtonode.org/what-is-this
+
 
 
 **[⬆ back to top](#table-of-contents)**
@@ -86,3 +91,6 @@ http://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-p
     5. The constructor property of the prototype object points back to its constructor function.
     6. When we create a new instance of Foo like new Foo(), JavaScript creates a new object.
     7. The internal [[proto]] property of the instance points to the prototype of the constructor.
+
+
+## Pattern
