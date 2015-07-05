@@ -77,9 +77,10 @@ http://howtonode.org/why-use-closure
 
 http://howtonode.org/what-is-this
 
-
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
 
 **[⬆ back to top](#table-of-contents)**
+
 
 ## Prototype
 - [2.1](#2.1) <a name='2.1'></a> **Constructor Function and Prototype Object**:
@@ -96,4 +97,7 @@ http://howtonode.org/what-is-this
 ## Pattern
 
 Module patterns
+
 http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
