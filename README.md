@@ -94,3 +94,6 @@ http://howtonode.org/what-is-this
 
 
 ## Pattern
+
+Module patterns
+http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
