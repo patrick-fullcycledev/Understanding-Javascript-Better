@@ -3,6 +3,7 @@ Understanding Javascript better
 
 ## Table of Contents
 1. [Function](#function)
+1. [Object](#bbject)
 1. [Closure](#closure)
 1. [Prototype](#prototype)
 1. [Pattern](#pattern)
@@ -81,8 +82,6 @@ http://eloquentjavascript.net/03_functions.html
 ## Closure
 http://howtonode.org/why-use-closure
 
-http://howtonode.org/what-is-this
-
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
 
 **[⬆ back to top](#table-of-contents)**
@@ -105,6 +104,11 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prot
 **[⬆ back to top](#table-of-contents)**
 
 
+## Object
+
+http://howtonode.org/what-is-this
+
+https://javascriptweblog.wordpress.com/2010/08/30/understanding-javascripts-this/
 
 
 ## Pattern
