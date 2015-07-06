@@ -54,13 +54,11 @@ Understanding Javascript better
 
 > Object literals don't provide closures, only functions do.
 > In addition, the properties of app1 will not be assigned until the function is called in the first example, but will be immediately for app2.
+>
+> Constructor Pattern 
 
 ```javascript
-
-  // Tthe firstMethod and secondMethod will not be to assigned to
-  // 'Owner' Object until we use key word 'new'
-
-  // Constructor Pattern 
+  // The firstMethod and secondMethod will not be to assigned to 'Owner' Object until we use key word 'new'
   // And the firstMethod and secondMethod will be assigned to the window object from the start
   var app1 = function(){
     this.firstMethod = function(){
@@ -70,8 +68,11 @@ Understanding Javascript better
        //something
     };
   };
+```  
   
-  // Object Literal
+> Object Literal
+
+``` javascript
   // TODO Why Object Literal does not have closure?        
   // Refer to: http://www.akawebdesign.com/2010/10/22/javascript-singletons-object-literals-vs-closures/
   var app2 = {
@@ -82,7 +83,6 @@ Understanding Javascript better
        //something
     }
   };
-  
   // Object literal vs Constructor Prototype
   // Refer to: http://stackoverflow.com/questions/17260603/object-literal-vs-constructorprototype
 ```
