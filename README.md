@@ -72,7 +72,7 @@ Understanding Javascript better
   
 > Object Literal
 
-``` javascript
+```javascript
   // TODO Why Object Literal does not have closure?        
   // Refer to: http://www.akawebdesign.com/2010/10/22/javascript-singletons-object-literals-vs-closures/
   var app2 = {
@@ -94,7 +94,7 @@ Understanding Javascript better
 >If you change the parameter itself (as with num and obj2), that won't affect the item that was fed into the parameter. 
 >But if you change the INTERNALS of the parameter, that will propagate back up (as with obj1)
 
-``` javascript
+```javascript
   function changeStuff(a, b, c)
   {
     a = a * 10;
