@@ -183,16 +183,14 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
 **[⬆ back to top](#table-of-contents)**
 
 
+## Common Knowledge
+http://stackoverflow.com/questions/9053842/advanced-javascript-why-is-this-function-wrapped-in-parentheses
+
+**[⬆ back to top](#table-of-contents)**
+
+
 ## Common Mistakes
 http://www.toptal.com/javascript/10-most-common-javascript-mistakes
 
 **[⬆ back to top](#table-of-contents)**
 
-
-
-
-
-## Common Knowledge
-http://stackoverflow.com/questions/9053842/advanced-javascript-why-is-this-function-wrapped-in-parentheses
-
-**[⬆ back to top](#table-of-contents)**
