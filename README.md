@@ -80,7 +80,12 @@ http://www.w3schools.com/js/js_function_definition.asp
 
 http://stackoverflow.com/questions/4559207/difference-between-a-constructor-and-an-object
 
+http://stackoverflow.com/questions/10328449/what-difference-is-there-in-javascript-between-a-constructor-function-and-funct
+
 **[⬆ back to top](#table-of-contents)**
+
+
+
 
 
 
@@ -94,6 +99,9 @@ http://spin.atomicobject.com/2014/10/20/javascript-scope-closures/
 http://javascriptissexy.com/understand-javascript-closures-with-ease/
 
 **[⬆ back to top](#table-of-contents)**
+
+
+
 
 
 
@@ -114,6 +122,9 @@ http://stackoverflow.com/questions/3564238/object-oriented-javascript-with-proto
 
 
 **[⬆ back to top](#table-of-contents)**
+
+
+
 
 
 ## Object
@@ -143,6 +154,12 @@ http://stackoverflow.com/questions/5958417/javascript-function-and-object
 http://stackoverflow.com/questions/14934831/new-operator-before-declaring-function
 
 **[⬆ back to top](#table-of-contents)**
+
+
+
+
+
+
 
 ## Pattern
 
