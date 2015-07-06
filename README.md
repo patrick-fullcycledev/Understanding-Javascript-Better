@@ -189,6 +189,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
 ## Best Practice
 http://www.w3.org/wiki/JavaScript_best_practices
 
+http://desalasworks.com/article/javascript-performance-techniques/
+
 **[⬆ back to top](#table-of-contents)**
 
 
@@ -209,6 +211,8 @@ http://stackoverflow.com/questions/2917175/return-multiple-values-in-javascript
 http://alistapart.com/article/getoutbindingsituations
 
 http://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/
+
+https://javascriptweblog.wordpress.com/2010/08/09/variables-vs-properties-in-javascript/
 
 **[⬆ back to top](#table-of-contents)**
 
