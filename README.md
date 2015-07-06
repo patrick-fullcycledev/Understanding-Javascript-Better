@@ -110,6 +110,9 @@ http://javascriptissexy.com/understand-javascript-closures-with-ease/
     
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
 
+http://stackoverflow.com/questions/3564238/object-oriented-javascript-with-prototypes-vs-closures
+
+
 **[⬆ back to top](#table-of-contents)**
 
 
