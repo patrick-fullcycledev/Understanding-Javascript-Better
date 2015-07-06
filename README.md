@@ -41,10 +41,10 @@ Understanding Javascript better
   };
 ```
 
-> Function Constructor
+>Function Constructor
+>Notice this is not the 'normal object' constructor, but the costructor for function
 
 ```javascript
-  // Notice this is not the 'normal object' constructor, but the costructor for function
   // To create function object, notice we use the keyword "Function" and "new"
   var functionName = new Function("a", "return a");
 ```  
