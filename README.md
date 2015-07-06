@@ -7,6 +7,7 @@ Understanding Javascript better
 1. [Prototype](#prototype)
 1. [Object](#object)
 1. [Pattern](#pattern)
+1. [Best Practice] (#best-practice)
 1. [Common Knowledge](#common-knowledge)
 1. [Common Mistakes](#common-mistakes)
 
@@ -183,8 +184,16 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
 **[⬆ back to top](#table-of-contents)**
 
 
+## Best Practice
+http://www.w3.org/wiki/JavaScript_best_practices
+
+**[⬆ back to top](#table-of-contents)**
+
+
+
 ## Common Knowledge
 http://stackoverflow.com/questions/9053842/advanced-javascript-why-is-this-function-wrapped-in-parentheses
+http://stackoverflow.com/questions/20824558/why-use-parentheses-when-returning-in-javascript
 
 **[⬆ back to top](#table-of-contents)**
 
