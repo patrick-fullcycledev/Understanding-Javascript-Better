@@ -70,7 +70,12 @@ Understanding Javascript better
 http://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language
 
 
+http://eloquentjavascript.net/03_functions.html
+
+
 **[⬆ back to top](#table-of-contents)**
+
+
 
 ## Closure
 http://howtonode.org/why-use-closure
@@ -80,6 +85,7 @@ http://howtonode.org/what-is-this
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
 
 **[⬆ back to top](#table-of-contents)**
+
 
 
 ## Prototype
@@ -92,6 +98,9 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
     5. The constructor property of the prototype object points back to its constructor function.
     6. When we create a new instance of Foo like new Foo(), JavaScript creates a new object.
     7. The internal [[proto]] property of the instance points to the prototype of the constructor.
+**[⬆ back to top](#table-of-contents)**
+
+
 
 
 ## Pattern
