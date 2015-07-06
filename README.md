@@ -42,6 +42,7 @@ Understanding Javascript better
 ```
 
 > Function Constructor
+
 ```javascript
   // Notice this is not the 'normal object' constructor, but the costructor for function
   // To create function object, notice we use the keyword "Function" and "new"
@@ -49,6 +50,7 @@ Understanding Javascript better
 ```  
 
 - [1.2](#1.2) <a name='1.2'></a> **Interesting case: Function and Object**
+
 ```javascript
   // Object literals don't provide closures, only functions do. 
   // In addition, the properties of app1 will not be assigned 
