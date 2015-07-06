@@ -7,7 +7,7 @@ Understanding Javascript better
 1. [Prototype](#prototype)
 1. [Object](#object)
 1. [Pattern](#pattern)
-1. [Common Mistakes](#Common Mistakes)
+1. [Common Mistakes](#common-mistakes)
 
 ## Function
 - [1.1](#1.1) <a name='1.1'></a> **Different Functions Definitions**: 
