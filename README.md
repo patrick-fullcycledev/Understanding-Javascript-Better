@@ -193,7 +193,10 @@ http://www.w3.org/wiki/JavaScript_best_practices
 
 ## Common Knowledge
 http://stackoverflow.com/questions/9053842/advanced-javascript-why-is-this-function-wrapped-in-parentheses
+
 http://stackoverflow.com/questions/20824558/why-use-parentheses-when-returning-in-javascript
+
+http://www.crockford.com/javascript/private.html
 
 **[⬆ back to top](#table-of-contents)**
 
