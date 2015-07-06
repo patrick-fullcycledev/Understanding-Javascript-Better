@@ -132,6 +132,7 @@ http://blog.kevinchisholm.com/javascript/difference-between-object-literal-and-i
 
 http://stackoverflow.com/questions/8093057/javascript-inheritance-and-the-constructor-property
 
+http://robdodson.me/javascript-design-patterns-singleton/
 
 **[⬆ back to top](#table-of-contents)**
 
