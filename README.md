@@ -7,6 +7,7 @@ Understanding Javascript better
 1. [Prototype](#prototype)
 1. [Object](#object)
 1. [Pattern](#pattern)
+1. [Common Knowledge](#common-knowledge)
 1. [Common Mistakes](#common-mistakes)
 
 ## Function
@@ -184,3 +185,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
 
 ## Common Mistakes
 http://www.toptal.com/javascript/10-most-common-javascript-mistakes
+
+
+## Common Knowledge
+http://stackoverflow.com/questions/9053842/advanced-javascript-why-is-this-function-wrapped-in-parentheses
