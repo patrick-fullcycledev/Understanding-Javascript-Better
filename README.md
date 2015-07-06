@@ -202,6 +202,8 @@ http://www.crockford.com/javascript/private.html
 
 http://stackoverflow.com/questions/10328449/what-difference-is-there-in-javascript-between-a-constructor-function-and-funct
 
+http://www.sitepoint.com/oriented-programming-1-4/
+
 **[⬆ back to top](#table-of-contents)**
 
 
