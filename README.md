@@ -3,9 +3,9 @@ Understanding Javascript better
 
 ## Table of Contents
 1. [Function](#function)
-1. [Object](#bbject)
 1. [Closure](#closure)
 1. [Prototype](#prototype)
+1. [Object](#object)
 1. [Pattern](#pattern)
 
 ## Function
@@ -77,6 +77,8 @@ http://eloquentjavascript.net/03_functions.html
 http://elegantcode.com/2010/10/22/basic-javascript-part-1-functions/
 
 http://www.w3schools.com/js/js_function_definition.asp
+
+http://stackoverflow.com/questions/4559207/difference-between-a-constructor-and-an-object
 
 **[⬆ back to top](#table-of-contents)**
 
