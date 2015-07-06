@@ -200,6 +200,9 @@ http://desalasworks.com/article/javascript-performance-techniques/
 
 
 ## Common Knowledge
+
+http://hangar.runway7.net/javascript/guide
+
 http://www.quora.com/What-is-a-simple-explanation-of-higher-order-functions-and-callbacks-in-JavaScript
 
 http://stackoverflow.com/questions/9053842/advanced-javascript-why-is-this-function-wrapped-in-parentheses
