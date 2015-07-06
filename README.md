@@ -76,10 +76,10 @@ Understanding Javascript better
 ```
 - [1.3](#1.3) <a name='1.3'></a> **Passed by Value or by Reference**
 
-Item passed in is passed by value. But the item that is passed by value is itself a reference.  
-Refer to => called call-by-sharing.
-If you change the parameter itself (as with num and obj2), that won't affect the item that was fed into the parameter. 
-But if you change the INTERNALS of the parameter, that will propagate back up (as with obj1)
+>Item passed in is passed by value. But the item that is passed by value is itself a reference.  
+>Refer to => called call-by-sharing.
+>If you change the parameter itself (as with num and obj2), that won't affect the item that was fed into the parameter. 
+>But if you change the INTERNALS of the parameter, that will propagate back up (as with obj1)
 
 ``` javascript
   function changeStuff(a, b, c)
