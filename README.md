@@ -91,6 +91,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
 
 http://spin.atomicobject.com/2014/10/20/javascript-scope-closures/
 
+http://javascriptissexy.com/understand-javascript-closures-with-ease/
+
 **[⬆ back to top](#table-of-contents)**
 
 
