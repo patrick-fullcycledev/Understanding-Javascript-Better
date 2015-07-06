@@ -14,10 +14,10 @@ Understanding Javascript better
 ## Function
 - [1.1](#1.1) <a name='1.1'></a> **Different Functions Definitions**
 
->Function Declaration
+> Function Declaration
 >
->Function Declaration is parsed from the start.
->Function Declarations loads before any code is executed (Hoisting).
+> Function Declaration is parsed from the start.
+> Function Declarations loads before any code is executed (Hoisting).
 
 ```javascript
   function functionName(a) {
@@ -27,9 +27,9 @@ Understanding Javascript better
   // Function declaration is not an executable statement,  so it is not common to end it with a semicolon
 ```
 
->Function Expression
+> Function Expression
 >
->Function Expression is stored in a variable and defined at run-time
+> Function Expression is stored in a variable and defined at run-time
 
 ```javascript
   // 
@@ -41,9 +41,9 @@ Understanding Javascript better
   };
 ```
 
->Function Constructor
->
->Notice this is not the 'normal object' constructor, but the costructor for function
+> Function Constructor
+> 
+> Notice this is not the 'normal object' constructor, but the costructor for function
 
 ```javascript
   // To create function object, notice we use the keyword "Function" and "new"
@@ -52,12 +52,12 @@ Understanding Javascript better
 
 - [1.2](#1.2) <a name='1.2'></a> **Interesting case: Function and Object**
 
+> Object literals don't provide closures, only functions do.
+> In addition, the properties of app1 will not be assigned until the function is called in the first example, but will be immediately for app2.
+
 ```javascript
-  // Object literals don't provide closures, only functions do. 
-  // In addition, the properties of app1 will not be assigned 
-  // until the function is called in the first example, 
-  // but will be immediately for app2
-  // And the firstMethod and secondMethod will not be to assigned to
+
+  // Tthe firstMethod and secondMethod will not be to assigned to
   // 'Owner' Object until we use key word 'new'
 
   // Constructor Pattern 
