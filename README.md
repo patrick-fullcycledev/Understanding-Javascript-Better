@@ -74,6 +74,7 @@ http://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-p
 
 http://eloquentjavascript.net/03_functions.html
 
+http://elegantcode.com/2010/10/22/basic-javascript-part-1-functions/
 
 **[⬆ back to top](#table-of-contents)**
 
