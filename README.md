@@ -122,6 +122,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prot
 
 http://stackoverflow.com/questions/3564238/object-oriented-javascript-with-prototypes-vs-closures
 
+http://stackoverflow.com/questions/15472005/setting-prototype-for-object-literal
 
 **[⬆ back to top](#table-of-contents)**
 
