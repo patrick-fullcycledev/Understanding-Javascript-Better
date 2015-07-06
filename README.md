@@ -42,6 +42,7 @@ Understanding Javascript better
 ```
 
 >Function Constructor
+>
 >Notice this is not the 'normal object' constructor, but the costructor for function
 
 ```javascript
