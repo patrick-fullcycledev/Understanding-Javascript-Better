@@ -5,7 +5,7 @@ Understanding Javascript better
 1. [Function](#function)
 1. [Closure](#closure)
 1. [Prototype](#prototype)
-1. [Object](#objects)
+1. [Object](#object)
 1. [Pattern](#pattern)
 
 ## Function
@@ -116,7 +116,7 @@ http://stackoverflow.com/questions/3564238/object-oriented-javascript-with-proto
 **[⬆ back to top](#table-of-contents)**
 
 
-## Objects
+## Object
 
 http://howtonode.org/what-is-this
 
