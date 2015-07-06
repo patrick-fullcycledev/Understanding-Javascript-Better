@@ -136,6 +136,7 @@ http://robdodson.me/javascript-design-patterns-singleton/
 
 http://stackoverflow.com/questions/22401553/what-are-all-the-difference-between-function-and-constructor-function-in-javascr
 
+http://stackoverflow.com/questions/5958417/javascript-function-and-object
 
 **[⬆ back to top](#table-of-contents)**
 
