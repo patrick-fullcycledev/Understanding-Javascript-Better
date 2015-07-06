@@ -82,6 +82,8 @@ http://stackoverflow.com/questions/4559207/difference-between-a-constructor-and-
 
 http://stackoverflow.com/questions/10328449/what-difference-is-there-in-javascript-between-a-constructor-function-and-funct
 
+https://stackoverflow.com/questions/1013385/what-is-the-difference-between-a-function-expression-vs-declaration-in-javascrip
+
 **[⬆ back to top](#table-of-contents)**
 
 
