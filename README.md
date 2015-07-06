@@ -16,6 +16,7 @@ Understanding Javascript better
 
 >Function Declaration
 >Function Declaration is parsed from the start
+
 ```javascript
   // 
   // Function Declarations loads before any code is executed (Hoisting)
@@ -75,8 +76,8 @@ Understanding Javascript better
   
   // Object literal vs Constructor Prototype
   // Refer to: http://stackoverflow.com/questions/17260603/object-literal-vs-constructorprototype
-  
 ```
+
 - [1.3](#1.3) <a name='1.3'></a> **Passed by Value or by Reference**
 
 >Item passed in is passed by value. But the item that is passed by value is itself a reference.  
