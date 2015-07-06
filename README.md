@@ -17,7 +17,8 @@ Understanding Javascript better
   // Function Declaration is parsed from the start
   // Function Declarations loads before any code is executed (Hoisting)
   // Semicolons are used to separate executable JavaScript statements
-  // Function declaration is not an executable statement, it is not common to end it with a semicolon
+  // Function declaration is not an executable statement, 
+  // so it is not common to end it with a semicolon
   function functionName(a) {
     return a;
   }
@@ -31,7 +32,7 @@ Understanding Javascript better
   };
   
   // Function() Constructor
-  // Notice this is not the 'normal' constructor, but the costructor for function
+  // Notice this is not the 'normal object' constructor, but the costructor for function
   // To create function object, notice we use the keyword "Function" and "new"
   var functionName = new Function("a", "return a");
   
