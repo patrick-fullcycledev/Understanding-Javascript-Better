@@ -76,6 +76,8 @@ http://eloquentjavascript.net/03_functions.html
 
 http://elegantcode.com/2010/10/22/basic-javascript-part-1-functions/
 
+http://www.w3schools.com/js/js_function_definition.asp
+
 **[⬆ back to top](#table-of-contents)**
 
 
