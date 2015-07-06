@@ -214,6 +214,8 @@ http://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/
 
 https://javascriptweblog.wordpress.com/2010/08/09/variables-vs-properties-in-javascript/
 
+http://ericleads.com/2013/01/javascript-constructor-functions-vs-factory-functions/
+
 **[⬆ back to top](#table-of-contents)**
 
 
@@ -222,3 +224,9 @@ http://www.toptal.com/javascript/10-most-common-javascript-mistakes
 
 **[⬆ back to top](#table-of-contents)**
 
+
+## Interview
+
+http://www.toptal.com/javascript/interview-questions
+
+**[⬆ back to top](#table-of-contents)**
