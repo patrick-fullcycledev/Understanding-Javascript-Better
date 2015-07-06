@@ -155,6 +155,8 @@ http://stackoverflow.com/questions/5958417/javascript-function-and-object
 
 http://stackoverflow.com/questions/14934831/new-operator-before-declaring-function
 
+http://www.akawebdesign.com/2010/10/22/javascript-singletons-object-literals-vs-closures/
+
 **[⬆ back to top](#table-of-contents)**
 
 
