@@ -216,6 +216,8 @@ https://javascriptweblog.wordpress.com/2010/08/09/variables-vs-properties-in-jav
 
 http://ericleads.com/2013/01/javascript-constructor-functions-vs-factory-functions/
 
+http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/#more-1037
+
 **[⬆ back to top](#table-of-contents)**
 
 
