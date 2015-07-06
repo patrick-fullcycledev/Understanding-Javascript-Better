@@ -127,6 +127,8 @@ http://stackoverflow.com/questions/17260603/object-literal-vs-constructorprototy
 
 Module patterns
 
+http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/
+
 http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
