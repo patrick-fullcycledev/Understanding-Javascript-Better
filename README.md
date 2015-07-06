@@ -85,6 +85,8 @@ http://howtonode.org/why-use-closure
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
 
+http://spin.atomicobject.com/2014/10/20/javascript-scope-closures/
+
 **[⬆ back to top](#table-of-contents)**
 
 
