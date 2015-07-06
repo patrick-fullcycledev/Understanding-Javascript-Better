@@ -114,10 +114,6 @@ Understanding Javascript better
   
 ```
 
-http://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language
-
-http://eloquentjavascript.net/03_functions.html
-
 http://elegantcode.com/2010/10/22/basic-javascript-part-1-functions/
 
 http://www.w3schools.com/js/js_function_definition.asp
@@ -288,6 +284,7 @@ http://www.toptal.com/javascript/interview-questions
 
 ## Good Reference Sites
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
+http://eloquentjavascript.net/
 
 
 ## ECMA 6
