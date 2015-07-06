@@ -98,6 +98,9 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
     5. The constructor property of the prototype object points back to its constructor function.
     6. When we create a new instance of Foo like new Foo(), JavaScript creates a new object.
     7. The internal [[proto]] property of the instance points to the prototype of the constructor.
+    
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
+
 **[⬆ back to top](#table-of-contents)**
 
 
