@@ -232,7 +232,7 @@ http://www.toptal.com/javascript/interview-questions
 **[⬆ back to top](#table-of-contents)**
 
 
-## Good Reference Sites:
+## Good Reference Sites
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 
