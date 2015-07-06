@@ -100,6 +100,8 @@ http://spin.atomicobject.com/2014/10/20/javascript-scope-closures/
 
 http://javascriptissexy.com/understand-javascript-closures-with-ease/
 
+http://stackoverflow.com/questions/111102/how-do-javascript-closures-work
+
 **[⬆ back to top](#table-of-contents)**
 
 
