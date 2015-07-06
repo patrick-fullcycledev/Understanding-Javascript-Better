@@ -7,6 +7,7 @@ Understanding Javascript better
 1. [Prototype](#prototype)
 1. [Object](#object)
 1. [Pattern](#pattern)
+1. [Common Mistakes](#Common Mistakes)
 
 ## Function
 - [1.1](#1.1) <a name='1.1'></a> **Different Functions Definitions**: 
@@ -179,3 +180,7 @@ http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
 
 **[⬆ back to top](#table-of-contents)**
+
+
+## Common Mistakes
+http://www.toptal.com/javascript/10-most-common-javascript-mistakes
