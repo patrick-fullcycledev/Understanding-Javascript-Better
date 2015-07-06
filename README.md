@@ -128,6 +128,7 @@ http://stackoverflow.com/questions/17260603/object-literal-vs-constructorprototy
 
 http://www.quirksmode.org/js/this.html
 
+**[⬆ back to top](#table-of-contents)**
 
 ## Pattern
 
@@ -138,3 +139,5 @@ http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/
 http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+
+**[⬆ back to top](#table-of-contents)**
