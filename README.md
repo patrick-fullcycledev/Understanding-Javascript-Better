@@ -15,14 +15,16 @@ Understanding Javascript better
 - [1.1](#1.1) <a name='1.1'></a> **Different Functions Definitions**
 
 >Function Declaration
->Function Declaration is parsed from the start
->Function Declarations loads before any code is executed (Hoisting)
->Semicolons are used to separate executable JavaScript statements
+>
+>Function Declaration is parsed from the start.
+>Function Declarations loads before any code is executed (Hoisting).
 
 ```javascript
   function functionName(a) {
     return a;
-  } // Function declaration is not an executable statement,  so it is not common to end it with a semicolon
+  }
+  // Semicolons are used to separate executable JavaScript statements.
+  // Function declaration is not an executable statement,  so it is not common to end it with a semicolon
 
   // Function Expression is stored in a variable and defined at run-time
   // The function here is actually anonymous function
