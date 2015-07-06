@@ -87,6 +87,8 @@ http://stackoverflow.com/questions/10328449/what-difference-is-there-in-javascri
 
 https://stackoverflow.com/questions/1013385/what-is-the-difference-between-a-function-expression-vs-declaration-in-javascrip
 
+http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/
+
 **[⬆ back to top](#table-of-contents)**
 
 
