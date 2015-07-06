@@ -218,6 +218,8 @@ http://ericleads.com/2013/01/javascript-constructor-functions-vs-factory-functio
 
 http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/#more-1037
 
+http://eloquentjavascript.net/05_higher_order.html
+
 **[⬆ back to top](#table-of-contents)**
 
 
