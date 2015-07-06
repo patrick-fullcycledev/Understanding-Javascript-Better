@@ -76,6 +76,30 @@ Understanding Javascript better
 ```
 - [1.3](#1.3) <a name='1.3'></a> **Passed by Value or by Reference**
 
+Item passed in is passed by value. But the item that is passed by value is itself a reference.  
+Refer to => called call-by-sharing.
+If you change the parameter itself (as with num and obj2), that won't affect the item that was fed into the parameter. 
+But if you change the INTERNALS of the parameter, that will propagate back up (as with obj1)
+
+``` javascript
+  function changeStuff(a, b, c)
+  {
+    a = a * 10;
+    b.item = "changed";
+    c = {item: "changed"};
+  }
+
+  var num = 10;
+  var obj1 = {item: "unchanged"};
+  var obj2 = {item: "unchanged"};
+
+  changeStuff(num, obj1, obj2);
+  
+  console.log(num); // 10
+  console.log(obj1.item); // changed    
+  console.log(obj2.item); // unchanged
+  
+```
 
 http://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language
 
