@@ -197,6 +197,8 @@ http://desalasworks.com/article/javascript-performance-techniques/
 
 http://ejohn.org/blog/dom-documentfragments/
 
+http://gregfranko.com/blog/javascript-performance-tips/
+
 **[⬆ back to top](#table-of-contents)**
 
 
