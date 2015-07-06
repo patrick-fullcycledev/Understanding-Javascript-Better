@@ -110,6 +110,7 @@ http://howtonode.org/what-is-this
 
 https://javascriptweblog.wordpress.com/2010/08/30/understanding-javascripts-this/
 
+http://stackoverflow.com/questions/3127429/how-does-the-this-keyword-work
 
 ## Pattern
 
