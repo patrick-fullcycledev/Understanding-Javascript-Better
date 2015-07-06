@@ -13,8 +13,10 @@ Understanding Javascript better
 
 ## Function
 - [1.1](#1.1) <a name='1.1'></a> **Different Functions Definitions**: 
+>Function Declaration
+>>Function Declaration is parsed from the start
 ```javascript
-  // Function Declaration is parsed from the start
+  // 
   // Function Declarations loads before any code is executed (Hoisting)
   // Semicolons are used to separate executable JavaScript statements
   // Function declaration is not an executable statement, 
