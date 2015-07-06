@@ -12,9 +12,10 @@ Understanding Javascript better
 1. [Common Mistakes](#common-mistakes)
 
 ## Function
-- [1.1](#1.1) <a name='1.1'></a> **Different Functions Definitions**: 
+- [1.1](#1.1) <a name='1.1'></a> **Different Functions Definitions**
+
 >Function Declaration
->>Function Declaration is parsed from the start
+>Function Declaration is parsed from the start
 ```javascript
   // 
   // Function Declarations loads before any code is executed (Hoisting)
