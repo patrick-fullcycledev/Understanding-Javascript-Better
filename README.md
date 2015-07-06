@@ -204,6 +204,8 @@ http://stackoverflow.com/questions/10328449/what-difference-is-there-in-javascri
 
 http://www.sitepoint.com/oriented-programming-1-4/
 
+http://stackoverflow.com/questions/2917175/return-multiple-values-in-javascript
+
 **[⬆ back to top](#table-of-contents)**
 
 
