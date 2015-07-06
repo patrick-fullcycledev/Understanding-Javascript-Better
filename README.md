@@ -118,6 +118,8 @@ http://stackoverflow.com/questions/3564238/object-oriented-javascript-with-proto
 
 ## Object
 
+http://stackoverflow.com/questions/14934831/new-operator-before-declaring-function
+
 http://howtonode.org/what-is-this
 
 https://javascriptweblog.wordpress.com/2010/08/30/understanding-javascripts-this/
