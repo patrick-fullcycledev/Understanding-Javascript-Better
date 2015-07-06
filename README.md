@@ -134,6 +134,9 @@ http://stackoverflow.com/questions/8093057/javascript-inheritance-and-the-constr
 
 http://robdodson.me/javascript-design-patterns-singleton/
 
+http://stackoverflow.com/questions/22401553/what-are-all-the-difference-between-function-and-constructor-function-in-javascr
+
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Pattern
