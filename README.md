@@ -208,6 +208,8 @@ http://stackoverflow.com/questions/2917175/return-multiple-values-in-javascript
 
 http://alistapart.com/article/getoutbindingsituations
 
+http://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/
+
 **[⬆ back to top](#table-of-contents)**
 
 
