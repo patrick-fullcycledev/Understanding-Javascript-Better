@@ -128,6 +128,8 @@ http://stackoverflow.com/questions/17260603/object-literal-vs-constructorprototy
 
 http://www.quirksmode.org/js/this.html
 
+http://blog.kevinchisholm.com/javascript/difference-between-object-literal-and-instance-object/
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Pattern
