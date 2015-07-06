@@ -140,6 +140,8 @@ http://stackoverflow.com/questions/22401553/what-are-all-the-difference-between-
 
 http://stackoverflow.com/questions/5958417/javascript-function-and-object
 
+http://stackoverflow.com/questions/14934831/new-operator-before-declaring-function
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Pattern
