@@ -119,6 +119,7 @@ https://javascriptweblog.wordpress.com/2010/08/30/understanding-javascripts-this
 
 http://stackoverflow.com/questions/3127429/how-does-the-this-keyword-work
 
+http://stackoverflow.com/questions/17260603/object-literal-vs-constructorprototype
 
 ## Pattern
 
