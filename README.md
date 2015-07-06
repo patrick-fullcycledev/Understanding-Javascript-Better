@@ -130,6 +130,9 @@ http://www.quirksmode.org/js/this.html
 
 http://blog.kevinchisholm.com/javascript/difference-between-object-literal-and-instance-object/
 
+http://stackoverflow.com/questions/8093057/javascript-inheritance-and-the-constructor-property
+
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Pattern
