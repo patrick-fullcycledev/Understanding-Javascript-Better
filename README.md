@@ -190,10 +190,12 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
 **[⬆ back to top](#table-of-contents)**
 
 
-## Best Practice
+## Best Practice and Performance
 http://www.w3.org/wiki/JavaScript_best_practices
 
 http://desalasworks.com/article/javascript-performance-techniques/
+
+http://ejohn.org/blog/dom-documentfragments/
 
 **[⬆ back to top](#table-of-contents)**
 
