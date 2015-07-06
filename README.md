@@ -67,8 +67,9 @@ Understanding Javascript better
   
 ```
 - [1.3](#1.3) <a name='1.3'></a> **Passed by Value or by Reference**
-http://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language
 
+
+http://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language
 
 http://eloquentjavascript.net/03_functions.html
 
