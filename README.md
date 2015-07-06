@@ -126,6 +126,9 @@ http://stackoverflow.com/questions/3127429/how-does-the-this-keyword-work
 
 http://stackoverflow.com/questions/17260603/object-literal-vs-constructorprototype
 
+http://www.quirksmode.org/js/this.html
+
+
 ## Pattern
 
 Module patterns
