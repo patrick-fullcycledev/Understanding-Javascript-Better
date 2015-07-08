@@ -53,21 +53,28 @@ Understanding Javascript better
 - [1.2](#1.2) <a name='1.2'></a> **Interesting case: Function and Object**
 
 > Object literals don't provide closures, only functions do.
-> In addition, the properties of app1 will not be assigned until the function is called in the first example, but will be immediately for app2.
+> In addition, the properties of app1 will not be assigned until the function is called in the first example, 
+> but will be immediately for app2.
 >
 > Constructor Pattern 
 
 ```javascript
-  // The firstMethod and secondMethod will not be to assigned to 'Owner' Object until we use key word 'new'
-  // And the firstMethod and secondMethod will be assigned to the window object from the start
-  var app1 = function(){
-    this.firstMethod = function(){
-       //something
-    };
-    this.secondMethod = function(){
-       //something
-    };
-  };
+  // The name and printName will not be to assigned to 'Owner' Object 
+  // until we use key word 'new'.
+  // And the name and printName will be assigned to the window object from the start
+function Obj(){
+  this.name = 'obj';
+  this.printName = function(){
+    console.log(this.name);
+  }
+  function functionInsideObj(){
+    console.log("test");
+  }
+  // This function will be execute when we call 'new'
+  functionInsideObj();
+}
+
+var obj = new Obj();
 ```  
   
 > Object Literal
@@ -82,6 +89,14 @@ Understanding Javascript better
     secondKey: function(){
        //something
     }
+    
+    // The following code will be error
+    /*
+    function functionInsideObj(){
+      console.log("test");
+    }
+    functionInsideObj();
+    */
   };
   // Object literal vs Constructor Prototype
   // Refer to: http://stackoverflow.com/questions/17260603/object-literal-vs-constructorprototype
