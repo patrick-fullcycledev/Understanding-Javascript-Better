@@ -58,9 +58,18 @@ Understanding Javascript better
 >
 > Constructor Pattern 
 
-Obj Constructor Function Diagram
+Constructor Function Diagram
 
 ![server diagram](Obj%20Constructor%20Function.png)
+
+Creating a new object
+
+![server diagram](new%20Object.png)
+
+Setting prototype object
+
+![server diagram](Set%20Object's%20Prototype.png)
+
 
 ```javascript
   // The name and printName will not be to assigned to 'Owner' Object 
