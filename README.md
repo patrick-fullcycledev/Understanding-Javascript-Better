@@ -57,6 +57,7 @@ Understanding Javascript better
 > but will be immediately for app2.
 >
 > Constructor Pattern 
+
 Obj Constructor Function Diagram
 
 ![server diagram](Obj%20Constructor%20Function.png)
