@@ -58,6 +58,9 @@ Understanding Javascript better
 >
 > Constructor Pattern 
 
+Obj Constructor Function Diagram
+![server diagram](Obj%20Constructor%20Function.png)
+
 ```javascript
   // The name and printName will not be to assigned to 'Owner' Object 
   // until we use key word 'new'.
